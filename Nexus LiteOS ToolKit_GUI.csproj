@@ -1,0 +1,817 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ECD1D13D-CEB5-4A99-A9A9-7A6371D3D8B7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Nexus_LiteOS_ToolKit_GUI</RootNamespace>
+    <AssemblyName>Nexus LiteOS ToolKit_GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Administrator\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>toolkit icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="4D.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4D.Designer.cs">
+      <DependentUpon>4D.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7z.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7z.Designer.cs">
+      <DependentUpon>7z.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AE.Designer.cs">
+      <DependentUpon>AE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AUD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AUD.Designer.cs">
+      <DependentUpon>AUD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCAM.Designer.cs">
+      <DependentUpon>BCAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CAD.Designer.cs">
+      <DependentUpon>CAD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CAM.Designer.cs">
+      <DependentUpon>CAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CDGS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CDGS.Designer.cs">
+      <DependentUpon>CDGS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compact.Designer.cs">
+      <DependentUpon>Compact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Context.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Context.Designer.cs">
+      <DependentUpon>Context.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Discord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Discord.Designer.cs">
+      <DependentUpon>Discord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Download1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Download1.Designer.cs">
+      <DependentUpon>Download1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Download2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Download2.Designer.cs">
+      <DependentUpon>Download2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Download3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Download3.Designer.cs">
+      <DependentUpon>Download3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Downloads.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Downloads.Designer.cs">
+      <DependentUpon>Downloads.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DW.Designer.cs">
+      <DependentUpon>DW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilmX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilmX.Designer.cs">
+      <DependentUpon>FilmX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GC.Designer.cs">
+      <DependentUpon>GC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GIMP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GIMP.Designer.cs">
+      <DependentUpon>GIMP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GOM.Designer.cs">
+      <DependentUpon>GOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HTTD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HTTD.Designer.cs">
+      <DependentUpon>HTTD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IDM.Designer.cs">
+      <DependentUpon>IDM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ILL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ILL.Designer.cs">
+      <DependentUpon>ILL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IND.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IND.Designer.cs">
+      <DependentUpon>IND.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KLF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KLF.Designer.cs">
+      <DependentUpon>KLF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KLM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KLM.Designer.cs">
+      <DependentUpon>KLM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KLS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KLS.Designer.cs">
+      <DependentUpon>KLS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LO.Designer.cs">
+      <DependentUpon>LO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainScreen.Designer.cs">
+      <DependentUpon>MainScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cleanup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cleanup.Designer.cs">
+      <DependentUpon>Cleanup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gaming Tweaks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gaming Tweaks.Designer.cs">
+      <DependentUpon>Gaming Tweaks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MF.Designer.cs">
+      <DependentUpon>MF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MPC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MPC.Designer.cs">
+      <DependentUpon>MPC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MS07.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MS07.Designer.cs">
+      <DependentUpon>MS07.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MS10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MS10.Designer.cs">
+      <DependentUpon>MS10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MS13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MS13.Designer.cs">
+      <DependentUpon>MS13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MS16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MS16.Designer.cs">
+      <DependentUpon>MS16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MS19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MS19.Designer.cs">
+      <DependentUpon>MS19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MS365.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MS365.Designer.cs">
+      <DependentUpon>MS365.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MT.Designer.cs">
+      <DependentUpon>MT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NPP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NPP.Designer.cs">
+      <DependentUpon>NPP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OBS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OBS.Designer.cs">
+      <DependentUpon>OBS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Opera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Opera.Designer.cs">
+      <DependentUpon>Opera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Please wait DEFRAG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Please wait DEFRAG.Designer.cs">
+      <DependentUpon>Please wait DEFRAG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="POWA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="POWA.Designer.cs">
+      <DependentUpon>POWA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="POWD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="POWD.Designer.cs">
+      <DependentUpon>POWD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="POWDVD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="POWDVD.Designer.cs">
+      <DependentUpon>POWDVD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Power.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Power.Designer.cs">
+      <DependentUpon>Power.cs</DependentUpon>
+    </Compile>
+    <Compile Include="POWISO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="POWISO.Designer.cs">
+      <DependentUpon>POWISO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PP.Designer.cs">
+      <DependentUpon>PP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE.Designer.cs">
+      <DependentUpon>PRE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PSD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PSD.Designer.cs">
+      <DependentUpon>PSD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RAR.Designer.cs">
+      <DependentUpon>RAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIB.Designer.cs">
+      <DependentUpon>SIB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DC.Designer.cs">
+      <DependentUpon>DC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SQL.Designer.cs">
+      <DependentUpon>SQL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STL.Designer.cs">
+      <DependentUpon>STL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SVG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SVG.Designer.cs">
+      <DependentUpon>SVG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TW.Designer.cs">
+      <DependentUpon>TW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tweaks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tweaks.Designer.cs">
+      <DependentUpon>Tweaks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UISO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UISO.Designer.cs">
+      <DependentUpon>UISO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User.Designer.cs">
+      <DependentUpon>User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uTor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uTor.Designer.cs">
+      <DependentUpon>uTor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UWP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UWP.Designer.cs">
+      <DependentUpon>UWP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VB.Designer.cs">
+      <DependentUpon>VB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VLC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VLC.Designer.cs">
+      <DependentUpon>VLC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vm.Designer.cs">
+      <DependentUpon>Vm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VPN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VPN.Designer.cs">
+      <DependentUpon>VPN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VS15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VS15.Designer.cs">
+      <DependentUpon>VS15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VS17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VS17.Designer.cs">
+      <DependentUpon>VS17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VS19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VS19.Designer.cs">
+      <DependentUpon>VS19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHD.Designer.cs">
+      <DependentUpon>WHD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WISO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WISO.Designer.cs">
+      <DependentUpon>WISO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WPS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WPS.Designer.cs">
+      <DependentUpon>WPS.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="4D.resx">
+      <DependentUpon>4D.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7z.resx">
+      <DependentUpon>7z.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AE.resx">
+      <DependentUpon>AE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AUD.resx">
+      <DependentUpon>AUD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCAM.resx">
+      <DependentUpon>BCAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAD.resx">
+      <DependentUpon>CAD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAM.resx">
+      <DependentUpon>CAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CDGS.resx">
+      <DependentUpon>CDGS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compact.resx">
+      <DependentUpon>Compact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Context.resx">
+      <DependentUpon>Context.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Discord.resx">
+      <DependentUpon>Discord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Download1.resx">
+      <DependentUpon>Download1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Download2.resx">
+      <DependentUpon>Download2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Download3.resx">
+      <DependentUpon>Download3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Downloads.resx">
+      <DependentUpon>Downloads.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DW.resx">
+      <DependentUpon>DW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilmX.resx">
+      <DependentUpon>FilmX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GC.resx">
+      <DependentUpon>GC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GIMP.resx">
+      <DependentUpon>GIMP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GOm.resx">
+      <DependentUpon>GOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HTTD.resx">
+      <DependentUpon>HTTD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IDM.resx">
+      <DependentUpon>IDM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ILL.resx">
+      <DependentUpon>ILL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IND.resx">
+      <DependentUpon>IND.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KLF.resx">
+      <DependentUpon>KLF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KLM.resx">
+      <DependentUpon>KLM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KLS.resx">
+      <DependentUpon>KLS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LO.resx">
+      <DependentUpon>LO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainScreen.resx">
+      <DependentUpon>MainScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gaming Tweaks.resx">
+      <DependentUpon>Gaming Tweaks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MF.resx">
+      <DependentUpon>MF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MPC.resx">
+      <DependentUpon>MPC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MS07.resx">
+      <DependentUpon>MS07.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MS10.resx">
+      <DependentUpon>MS10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MS13.resx">
+      <DependentUpon>MS13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MS16.resx">
+      <DependentUpon>MS16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MS19.resx">
+      <DependentUpon>MS19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MS365.resx">
+      <DependentUpon>MS365.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MT.resx">
+      <DependentUpon>MT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NPP.resx">
+      <DependentUpon>NPP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OBS.resx">
+      <DependentUpon>OBS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opera.resx">
+      <DependentUpon>Opera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Please wait DEFRAG.resx">
+      <DependentUpon>Please wait DEFRAG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="POWA.resx">
+      <DependentUpon>POWA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="POWD.resx">
+      <DependentUpon>POWD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="POWDVD.resx">
+      <DependentUpon>POWDVD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Power.resx">
+      <DependentUpon>Power.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="POWISO.resx">
+      <DependentUpon>POWISO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PP.resx">
+      <DependentUpon>PP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE.resx">
+      <DependentUpon>PRE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Cleanup.resx">
+      <DependentUpon>Cleanup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PSD.resx">
+      <DependentUpon>PSD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RAR.resx">
+      <DependentUpon>RAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIB.resx">
+      <DependentUpon>SIB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.dje-NE.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DC.resx">
+      <DependentUpon>DC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SQL.resx">
+      <DependentUpon>SQL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STL.resx">
+      <DependentUpon>STL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SVG.resx">
+      <DependentUpon>SVG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TW.resx">
+      <DependentUpon>TW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tweaks.resx">
+      <DependentUpon>Tweaks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UISO.resx">
+      <DependentUpon>UISO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uTor.resx">
+      <DependentUpon>uTor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UWP.resx">
+      <DependentUpon>UWP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VB.resx">
+      <DependentUpon>VB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VLC.resx">
+      <DependentUpon>VLC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vm.resx">
+      <DependentUpon>Vm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VPN.resx">
+      <DependentUpon>VPN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VS15.resx">
+      <DependentUpon>VS15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VS17.resx">
+      <DependentUpon>VS17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VS19.resx">
+      <DependentUpon>VS19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHD.resx">
+      <DependentUpon>WHD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WISO.resx">
+      <DependentUpon>WISO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WPS.resx">
+      <DependentUpon>WPS.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YouTube-Emblem.png" />
+    <None Include="Resources\YT.png" />
+    <None Include="Resources\SHORT.png" />
+    <None Include="Resources\TST.png" />
+    <None Include="Resources\TST1.png" />
+    <None Include="Resources\BLOGGERNEWSS.png" />
+    <None Include="Resources\INSTA.png" />
+    <None Include="Resources\DISSSCORD.png" />
+    <None Include="Resources\[Banner] Neon Colour eSports Revamp Template.jpg" />
+    <None Include="Resources\Untitled-1.jpg" />
+    <None Include="Resources\Splash1.png" />
+    <None Include="Resources\SPLASHSCR.jpg" />
+    <None Include="Resources\SPLASHSCR1.jpg" />
+    <Content Include="toolkit icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

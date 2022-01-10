@@ -1,0 +1,117 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\bin\Debug\Nexus LiteOS ToolKit_GUI.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\bin\Debug\Nexus LiteOS ToolKit_GUI.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\bin\Debug\Nexus LiteOS ToolKit_GUI.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus LiteOS ToolKit_GUI.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus LiteOS ToolKit_GUI.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus LiteOS ToolKit_GUI.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus LiteOS ToolKit_GUI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Cleanup.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Tweaks.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Gaming_Tweaks.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Compact.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Context.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.User.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.UWP.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Store.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.MainScreen.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Splash.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\bin\Debug\dje-NE\Nexus LiteOS ToolKit_GUI.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Splash.dje-NE.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\dje-NE\Nexus LiteOS ToolKit_GUI.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Power.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Downloads.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Download1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Download2.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Please_wait_DEFRAG.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\bin\Debug\Nexus LiteOS ToolKit_GUI.exe.config
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus LiteOS ToolKit_GUI.exe
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus LiteOS ToolKit_GUI.pdb
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\bin\Debug\Nexus LiteOS ToolKit_GUI.exe
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\bin\Debug\Nexus LiteOS ToolKit_GUI.pdb
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\bin\Debug\dje-NE\Nexus LiteOS ToolKit_GUI.resources.dll
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus LiteOS ToolKit_GUI.csprojResolveAssemblyReference.cache
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Compact.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Context.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Download1.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Download2.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Downloads.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.MainScreen.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Form2.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Gaming_Tweaks.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Please_wait_DEFRAG.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Power.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Properties.Resources.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Cleanup.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Splash.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Tweaks.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.User.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.UWP.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Splash.dje-NE.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus LiteOS ToolKit_GUI.csproj.GenerateResource.Cache
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\dje-NE\Nexus LiteOS ToolKit_GUI.resources.dll
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.DC.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Download3.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI._7z.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.AE.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.AUD.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.DW.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.ILL.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.BCAM.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.IND.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.PRE.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.PSD.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.VPN.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.CAM.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI._4D.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.CAD.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.CDGS.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.PP.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Discord.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.GIMP.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.GOM.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.GC.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.HTTD.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.IDM.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.KLF.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.KLM.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.KLS.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.LO.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.MF.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.MPC.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.MS07.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.MS10.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.MS13.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.MS16.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.MS19.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.MS365.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.MT.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.NPP.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.OBS.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.SQL.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Opera.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.VB.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.POWA.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.POWD.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.POWDVD.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.POWISO.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.STL.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.SVG.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.SIB.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.TW.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.UISO.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.uTor.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.VS15.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.VS17.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.VLC.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.VS19.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.FilmX.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.RAR.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.Vm.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.WHD.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.WISO.resources
+C:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus_LiteOS_ToolKit_GUI.WPS.resources
+J:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\bin\Debug\Nexus LiteOS ToolKit_GUI.exe.config
+J:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus LiteOS ToolKit_GUI.exe
+J:\Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI\obj\Debug\Nexus LiteOS ToolKit_GUI.pdb

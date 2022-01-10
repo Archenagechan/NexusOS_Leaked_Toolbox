@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus LiteOS ToolKit_GUI", "Nexus LiteOS ToolKit_GUI\Nexus LiteOS ToolKit_GUI.csproj", "{ECD1D13D-CEB5-4A99-A9A9-7A6371D3D8B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD1D13D-CEB5-4A99-A9A9-7A6371D3D8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD1D13D-CEB5-4A99-A9A9-7A6371D3D8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD1D13D-CEB5-4A99-A9A9-7A6371D3D8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD1D13D-CEB5-4A99-A9A9-7A6371D3D8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A9BAE1-4413-406E-8D93-7479BAEFEE5A}
+	EndGlobalSection
+EndGlobal
